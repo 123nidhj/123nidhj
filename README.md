@@ -1,12 +1,10 @@
-## Hi, I'm Nidhi S Shetty
+## Hi, I'm Nidhi S Shetty | Full Stack Developer 
 
 - 🎓 Final-year B.Tech CSE (Full Stack Specialization) student at NMAM Institute of Technology, Nitte
 - 💼 Software Engineer Intern at Manipal Technologies Limited, building a full-stack audit management platform
-- 🔨 Built **PhishGuard** (AI phishing detection), **XOR Collaborative Editor** (real-time editing) and **FreshMart** (grocery web app)
-- 🏆 1st place at SAP National Level Hackathon, 2nd runner up at a 24-hour National Level Hackathon, 3rd place at TechRangers 1.0
+- 🔨 Built XOR Collaborative Editor (real-time editing) and FreshMart (grocery web app) and PhishGuard (AI phishing detection),
+- 🏆 2nd runner up at a 24-hour National Level Hackathon, 1st place at SAP National Level Hackathon(Video Competition, 3rd place at TechRangers 1.0
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/nidhi-s-shetty-126463283)
-
----
 
 ## 🚀 Tech Stack & Tools
 
