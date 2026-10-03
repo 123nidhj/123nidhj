@@ -6,7 +6,7 @@
 -  2nd runner up at a 24-hour National Level Hackathon, 1st place at SAP National Level Hackathon(Video Competition, 3rd place at TechRangers 1.0
 -  Reach me: [LinkedIn](https://linkedin.com/in/nidhi-s-shetty-126463283)
 
-##  Tech Stack & Tools
+Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,react,nextjs,nodejs,fastapi,spring,tailwind,vite,mysql,mariadb,firebase,docker,git,github" />
@@ -18,10 +18,10 @@
 
 ---
 
-##  Featured Projects
+Featured Projects
 
-- **[PhishGuard](https://github.com/123nidhj/phishguard)**: real-time phishing detection dashboard and Chrome extension (React, TypeScript, Docker, Firebase)
-- **[XOR Collaborative Editor](https://github.com/123nidhj/xor-collaborative-editor)**: real-time collaborative code editor (React, Node.js, Socket.io)
+- [PhishGuard](https://github.com/123nidhj/phishguard)**: real-time phishing detection dashboard and Chrome extension (React, TypeScript, Docker, Firebase)
+- [XOR Collaborative Editor](https://github.com/123nidhj/xor-collaborative-editor)**: real-time collaborative code editor (React, Node.js, Socket.io)
 - **[FreshMart](https://github.com/123nidhj/FreshMart-app)**: grocery shopping frontend ([Live Demo](https://fresh-mart-app-ebon.vercel.app/))
 
 ---
