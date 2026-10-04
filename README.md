@@ -16,7 +16,7 @@ Languages:C++, Python, Java, JavaScript, TypeScript
 Frameworks:React.js, Next.js, Node.js, FastAPI, Spring Boot, Tailwind CSS
 Databases & DevOps: MySQL, MariaDB, Firebase, Docker, Git, GitHub
 
----
+
 
 Featured Projects
 
@@ -24,7 +24,7 @@ Featured Projects
 - [XOR Collaborative Editor](https://github.com/123nidhj/xor-collaborative-editor)**: real-time collaborative code editor (React, Node.js, Socket.io)
 - **[FreshMart](https://github.com/123nidhj/FreshMart-app)**: grocery shopping frontend ([Live Demo](https://fresh-mart-app-ebon.vercel.app/))
 
----
+
 
  GitHub Stats
 
