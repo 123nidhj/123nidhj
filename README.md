@@ -12,9 +12,9 @@ Tech Stack & Tools
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,react,nextjs,nodejs,fastapi,spring,tailwind,vite,mysql,mariadb,firebase,docker,git,github" />
 </p>
 
-**Languages:** C++, Python, Java, JavaScript, TypeScript
-**Frameworks:** React.js, Next.js, Node.js, FastAPI, Spring Boot, Tailwind CSS
-**Databases & DevOps:** MySQL, MariaDB, Firebase, Docker, Git, GitHub
+Languages:C++, Python, Java, JavaScript, TypeScript
+Frameworks:React.js, Next.js, Node.js, FastAPI, Spring Boot, Tailwind CSS
+Databases & DevOps: MySQL, MariaDB, Firebase, Docker, Git, GitHub
 
 ---
 
@@ -26,7 +26,7 @@ Featured Projects
 
 ---
 
-## 📊 GitHub Stats
+ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=123nidhj&show_icons=true&theme=dark" height="170" />
